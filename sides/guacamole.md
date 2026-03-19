@@ -20,3 +20,7 @@
 - add salt
 - and mix well
 - enjoy!
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk

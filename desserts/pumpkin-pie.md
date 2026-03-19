@@ -35,3 +35,7 @@
 
 - 15 min at 425 F
 - 40-50 min at 350 F
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk

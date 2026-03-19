@@ -37,3 +37,7 @@
 
 5. **Serve:**
    - Enjoy the fruit salad as is, or chill it in the refrigerator for about an hour before serving for a refreshing treat.
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk

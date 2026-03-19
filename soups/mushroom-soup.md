@@ -51,3 +51,7 @@
 7. **Serve:**
    - Ladle the soup into bowls and garnish with fresh parsley. Serve with
      crusty bread on the side for dipping.
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk

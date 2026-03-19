@@ -37,3 +37,7 @@
 
 4. **Serve:**
    - Serve the salad immediately, ensuring it's fresh and crisp.
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk

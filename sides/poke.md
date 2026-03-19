@@ -16,3 +16,7 @@
 ## Instructions
 
 Mix ingredients in a bowl.
+
+## Author
+In case of any issues, feel free to contact:
+John Brown, jhbrw@dtu.dk
